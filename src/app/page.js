@@ -4,9 +4,6 @@ import About from "./about/about";
 
 export default function Home() {
   return (
-    <>
-    <h1>testering</h1>
-    <About/>
-    </>
+    
   );
 }
